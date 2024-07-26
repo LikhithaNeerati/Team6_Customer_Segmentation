@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Location,Items Purchased monthly
+1,Male,19,15,39,Kansas City,23
+2,Male,21,15,81,Mill Creek,24
+3,Female,20,16,6,Overland Park,18
+4,Female,23,16,77,Raytown,14
+5,Female,31,17,40,Shawnee,14
+6,Female,22,17,76,Overland Park,13
+7,Female,35,18,6,Mill Creek,19
+8,Female,23,18,94,Raytown,12
+9,Male,64,19,3,Kansas City,16
+10,Female,30,19,72,Shawnee,24
+11,Male,67,19,14,Kansas City,25
+12,Female,35,19,99,Kansas City,23
+13,Female,58,20,15,Raytown,16
+14,Female,24,20,77,Overland Park,24
+15,Male,37,20,13,Shawnee,12
+16,Male,22,20,79,Raytown,15
+17,Female,35,21,35,Kansas City,17
+18,Male,20,21,66,Raytown,12
+19,Male,52,23,29,Kansas City,11
+20,Female,35,23,98,Kansas City,24
+21,Male,35,24,35,Overland Park,19
+22,Male,25,24,73,Shawnee,15
+23,Female,46,25,5,Kansas City,18
+24,Male,31,25,73,Raytown,13
+25,Female,54,28,14,Overland Park,10
+26,Male,29,28,82,Mill Creek,21
+27,Female,45,28,32,Independence,19
+28,Male,35,28,61,Overland Park,17
+29,Female,40,29,31,Mill Creek,25
+30,Female,23,29,87,Independence,20
+31,Male,60,30,4,Overland Park,23
+32,Female,21,30,73,Independence,19
+33,Male,53,33,4,Independence,20
+34,Male,18,33,92,Overland Park,25
+35,Female,49,33,14,Raytown,12
+36,Female,21,33,81,Independence,16
+37,Female,42,34,17,Overland Park,21
+38,Female,30,34,73,Raytown,20
+39,Female,36,37,26,Independence,17
+40,Female,20,37,75,Overland Park,12
+41,Female,65,38,35,Mill Creek,24
+42,Male,24,38,92,Independence,17
+43,Male,48,39,36,Raytown,23
+44,Female,31,39,61,Kansas City,22
+45,Female,49,39,28,Overland Park,15
+46,Female,24,39,65,Kansas City,16
+47,Female,50,40,55,Independence,15
+48,Female,27,40,47,Mill Creek,10
+49,Female,29,40,42,Shawnee,13
+50,Female,31,40,42,Mill Creek,22
+51,Female,49,42,52,Raytown,14
+52,Male,33,42,60,Overland Park,21
+53,Female,31,43,54,Independence,22
+54,Male,59,43,60,Kansas City,19
+55,Female,50,43,45,Mill Creek,18
+56,Male,47,43,41,Overland Park,23
+57,Female,51,44,50,Independence,13
+58,Male,69,44,46,Overland Park,15
+59,Female,27,46,51,Independence,18
+60,Male,53,46,46,Shawnee,11
+61,Male,70,46,56,Independence,23
+62,Male,19,46,55,Overland Park,17
+63,Female,67,47,52,Kansas City,15
+64,Female,54,47,59,Mill Creek,22
+65,Male,63,48,51,Raytown,20
+66,Male,18,48,59,Overland Park,23
+67,Female,43,48,50,Shawnee,14
+68,Female,68,48,48,Mill Creek,19
+69,Male,19,48,59,Independence,12
+70,Female,32,48,47,Kansas City,15
+71,Male,70,49,55,Overland Park,16
+72,Female,47,49,42,Independence,14
+73,Female,60,50,49,Shawnee,19
+74,Female,60,50,56,Mill Creek,10
+75,Male,59,54,47,Raytown,11
+76,Male,26,54,54,Overland Park,24
+77,Female,45,54,53,Kansas City,21
+78,Male,40,54,48,Raytown,19
+79,Female,23,54,52,Shawnee,21
+80,Female,49,54,42,Raytown,17
+81,Male,57,54,51,Overland Park,18
+82,Male,38,54,55,Shawnee,14
+83,Male,67,54,41,Shawnee,25
+84,Female,46,54,44,Raytown,13
+85,Female,21,54,57,Mill Creek,25
+86,Male,48,54,46,Shawnee,18
+87,Female,55,57,58,Raytown,10
+88,Female,22,57,55,Kansas City,20
+89,Female,34,58,60,Kansas City,20
+90,Female,50,58,46,Mill Creek,15
+91,Female,68,59,55,Independence,10
+92,Male,18,59,41,Overland Park,10
+93,Male,48,60,49,Kansas City,20
+94,Female,40,60,40,Independence,15
+95,Female,32,60,42,Mill Creek,25
+96,Male,24,60,52,Kansas City,18
+97,Female,47,60,47,Independence,24
+98,Female,27,60,50,Mill Creek,21
+99,Male,48,61,42,Kansas City,25
+100,Male,20,61,49,Overland Park,13
+101,Female,23,62,41,Mill Creek,16
+102,Female,49,62,48,Overland Park,12
+103,Male,67,62,59,Independence,14
+104,Male,26,62,55,Kansas City,23
+105,Male,49,62,56,Overland Park,15
+106,Female,21,62,42,Kansas City,18
+107,Female,66,63,50,Mill Creek,22
+108,Male,54,63,46,Kansas City,15
+109,Male,68,63,43,Independence,13
+110,Male,66,63,48,Overland Park,10
+111,Male,65,63,52,Kansas City,12
+112,Female,19,63,54,Raytown,24
+113,Female,38,64,42,Mill Creek,20
+114,Male,19,64,46,Overland Park,11
+115,Female,18,65,48,Kansas City,21
+116,Female,19,65,50,Kansas City,10
+117,Female,63,65,43,Mill Creek,12
+118,Female,49,65,59,Independence,15
+119,Female,51,67,43,Overland Park,13
+120,Female,50,67,57,Kansas City,17
+121,Male,27,67,56,Mill Creek,19
+122,Female,38,67,40,Independence,16
+123,Female,40,69,58,Raytown,21
+124,Male,39,69,91,Independence,18
+125,Female,23,70,29,Mill Creek,14
+126,Female,31,70,77,Overland Park,17
+127,Male,43,71,35,Kansas City,15
+128,Male,40,71,95,Mill Creek,24
+129,Male,59,71,11,Independence,16
+130,Male,38,71,75,Kansas City,14
+131,Male,47,71,9,Shawnee,23
+132,Male,39,71,75,Overland Park,21
+133,Female,25,72,34,Raytown,14
+134,Female,31,72,71,Overland Park,23
+135,Male,20,73,5,Shawnee,20
+136,Female,29,73,88,Kansas City,11
+137,Female,44,73,7,Mill Creek,21
+138,Male,32,73,73,Shawnee,10
+139,Male,19,74,10,Independence,14
+140,Female,35,74,72,Raytown,18
+141,Female,57,75,5,Mill Creek,17
+142,Male,32,75,93,Overland Park,24
+143,Female,28,76,40,Kansas City,18
+144,Female,32,76,87,Shawnee,10
+145,Male,25,77,12,Independence,22
+146,Male,28,77,97,Kansas City,25
+147,Male,48,77,36,Mill Creek,25
+148,Female,32,77,74,Overland Park,11
+149,Female,34,78,22,Kansas City,11
+150,Male,34,78,90,Mill Creek,19
+151,Male,43,78,17,Raytown,16
+152,Male,39,78,88,Raytown,22
+153,Female,44,78,20,Kansas City,13
+154,Female,38,78,76,Mill Creek,20
+155,Female,47,78,16,Kansas City,25
+156,Female,27,78,89,Independence,20
+157,Male,37,78,1,Mill Creek,15
+158,Female,30,78,78,Overland Park,16
+159,Male,34,78,1,Raytown,17
+160,Female,30,78,73,Kansas City,25
+161,Female,56,79,35,Independence,17
+162,Female,29,79,83,Mill Creek,16
+163,Male,19,81,5,Shawnee,18
+164,Female,31,81,93,Overland Park,12
+165,Male,50,85,26,Raytown,11
+166,Female,36,85,75,Mill Creek,15
+167,Male,42,86,20,Shawnee,21
+168,Female,33,86,95,Kansas City,19
+169,Female,36,87,27,Mill Creek,18
+170,Male,32,87,63,Independence,24
+171,Male,40,87,13,Overland Park,15
+172,Male,28,87,75,Shawnee,19
+173,Male,36,87,10,Kansas City,21
+174,Male,36,87,92,Independence,23
+175,Female,52,88,13,Overland Park,25
+176,Female,30,88,86,Raytown,19
+177,Male,58,88,15,Kansas City,22
+178,Male,27,88,69,Raytown,17
+179,Male,59,93,14,Overland Park,17
+180,Male,35,93,90,Shawnee,11
+181,Female,37,97,32,Raytown,15
+182,Female,32,97,86,Shawnee,20
+183,Male,46,98,15,Shawnee,12
+184,Female,29,98,88,Kansas City,15
+185,Female,41,99,39,Raytown,10
+186,Male,30,99,97,Shawnee,22
+187,Female,54,101,24,Independence,19
+188,Male,28,101,68,Shawnee,15
+189,Female,41,103,17,Independence,10
+190,Female,36,103,85,Kansas City,20
+191,Female,34,103,23,Raytown,23
+192,Female,32,103,69,Overland Park,24
+193,Male,33,113,8,Kansas City,14
+194,Female,38,113,91,Shawnee,13
+195,Female,47,120,16,Raytown,20
+196,Female,35,120,79,Independence,18
+197,Female,45,126,28,Independence,13
+198,Male,32,126,74,Overland Park,23
+199,Male,32,137,18,Shawnee,21
+200,Male,30,137,83,Kansas City,24
